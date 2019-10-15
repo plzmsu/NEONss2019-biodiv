@@ -1,3 +1,5 @@
+## OLD API from 2018: Not the current way to pull data from NEON; KEEPING HERE AS REFERENCE ONLY ##
+
 ## TITLE:         NEON Organismal Data: read in via API, export data
 ## AUTHOR:        Phoebe Zarnetske, Quentin Read 
 ## COLLABORATORS: Sydne Record (Bryn Mawr), Ben Baiser (UFL), Angela Strecker (PSU), 
